@@ -10,10 +10,6 @@
 4.  В качестве решения предоставляется скриншот, демонстрирующий попытку ввода корректной команды и полученную ошибку
 
 
-![](img/1.png)
-![](img/3.png)
-![](img/4.png)
-
  Команды, которые использовались :
 
 На `Router2` (Активный для группы 1):**
@@ -22,6 +18,16 @@ configure terminal
 interface GigabitEthernet0/1
  standby 1 track GigabitEthernet0/0 decrement 60
 end
+
+
+
+![](img/1.png)
+![](img/3.png)
+![](img/4.png)
+
+
+
+<!-- -->
 
 
 
