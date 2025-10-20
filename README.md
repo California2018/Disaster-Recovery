@@ -20,11 +20,12 @@
 ---
 
 ### Предполагаемая конфигурация Router2 (Активный для группы 1)
-
+```cisco
 configure terminal
 interface GigabitEthernet0/1
  standby 1 track GigabitEthernet0/0 decrement 60
 end
+```
 
 ![](img/1.png)
 ![](img/3.png)
