@@ -17,7 +17,7 @@
 
  Команды, которые использовались :
 
-**На `Router2` (Активный для группы 1):**
+На `Router2` (Активный для группы 1):**
 ```cisco
 configure terminal
 interface GigabitEthernet0/1
